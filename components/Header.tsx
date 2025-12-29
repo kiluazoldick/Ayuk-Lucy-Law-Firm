@@ -26,7 +26,7 @@ export default function Header() {
   const navItems = [
     { id: "/", label: t.nav.home },
     { id: "/cabinet", label: t.nav.cabinet },
-    { id: "/expertise", label: t.nav.expertise },
+    { id: "/expertise", label: t.nav.expertise }, // CORRECT
     { id: "/pour-quoi-nous-choisir", label: t.nav.why },
     { id: "/nos-avocats", label: t.nav.team },
     { id: "/contact", label: t.nav.contact },
